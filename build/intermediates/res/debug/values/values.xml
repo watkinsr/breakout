@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Ryan/Dropbox/Android-Breakout-master/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <!-- From: file:/C:/Users/Ryan/Dropbox/Android-Breakout-master/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Breakout</string>
+    <string name="cont">Continue Game</string>
+    <string name="launch">New Game</string>
+    <string name="score"/>
+    <string name="sound">Sound</string>
+    <string name="title_activity_breakout">Breakout</string>
+    <!-- From: file:/C:/Users/Ryan/Dropbox/Android-Breakout-master/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo"/>
+</resources>

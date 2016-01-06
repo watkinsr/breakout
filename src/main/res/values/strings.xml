@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Breakout</string>
+    <string name="title_activity_breakout">Breakout</string>
+    <string name="launch">New Game</string>
+    <string name="cont">Continue Game</string>
+    <string name="sound">Sound</string>
+    <string name="score"></string>
+</resources>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Ryan\Dropbox\Android-Breakout-master\app\src\main\assets"><file name="level1.csv" path="C:\Users\Ryan\Dropbox\Android-Breakout-master\app\src\main\assets\level1.csv"/><file name="level2.csv" path="C:\Users\Ryan\Dropbox\Android-Breakout-master\app\src\main\assets\level2.csv"/></source></dataSet><dataSet config="release"><source path="C:\Users\Ryan\Dropbox\Android-Breakout-master\app\src\release\assets"/></dataSet></merger>
